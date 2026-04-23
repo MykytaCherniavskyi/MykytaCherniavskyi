@@ -2,9 +2,9 @@
 
 ## Full Stack Engineer
 
-A dedicated Full Stack Engineer with 5+ years of experience in building scalable and high-performance web applications. Passionate about solving complex problems, optimizing application performance, and staying updated with the latest technologies to deliver innovative solutions.
+A dedicated Full Stack Engineer with 6+ years of experience in building scalable and high-performance web applications. Passionate about solving complex problems, optimizing application performance, and staying updated with the latest technologies to deliver innovative solutions.
 
-- 🌍 Based in Munich, Germany
+- 🌍 Based in Augsburg, Germany
 - 🚀 Portfolio: [cherniavskyi.dev](https://www.cherniavskyi.dev/)
 - 📧 Contact: [mykyta.cherniavskyi1@gmail.com](mailto:mykyta.cherniavskyi1@gmail.com)
 - 💼 Open to cooperation on interesting and challenging software development projects
