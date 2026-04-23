@@ -2,7 +2,7 @@
 
 ## Software Engineer
 
-A dedicated Full Stack Engineer with 6+ years of experience in building scalable and high-performance web applications. Passionate about solving complex problems, optimizing application performance, and staying updated with the latest technologies to deliver innovative solutions.
+A dedicated Software Engineer with 6+ years of experience in building scalable and performance web applications. Passionate about solving complex problems, optimizing application performance, and staying updated with the latest technologies to deliver modern solutions.
 
 - 🌍 Based in Augsburg, Germany
 - 🚀 Portfolio: [cherniavskyi.dev](https://www.cherniavskyi.dev/)
